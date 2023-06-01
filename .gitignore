@@ -1,0 +1,7 @@
+std/
+.idea/
+*.bmp
+*.png
+CMakeLists.txt
+stb/
+cmake-build-debug/
