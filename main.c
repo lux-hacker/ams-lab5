@@ -7,7 +7,7 @@
 #define STB_IMAGE_WRITE_IMPLEMENTATION
 #include "stb/stb_image_write.h"
 
-typedef struct timespec Time
+typedef struct timespec Time;
 
 int main(int argc, char * argv[]) {
     char *input, *output;
